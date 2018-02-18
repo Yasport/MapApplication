@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="my_list">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+    </string-array>
+</resources>
